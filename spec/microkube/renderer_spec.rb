@@ -17,7 +17,7 @@ describe Microkube::Renderer do
         'peatio' => 'rubykube/peatio:latest',
         'barong' => 'rubykube/barong:latest',
         'frontend' => 'rubykube/mikroapp:latest',
-        'tower' => 'rubykube/tower:latest'
+        'tower' => 'usomaru/microtower:latest'
       },
       'vendor' => {
         'frontend' => 'https://github.com/rubykube/mikroapp.git'
